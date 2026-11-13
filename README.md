@@ -1,4 +1,4 @@
-# EPBRS
+# Designing Effective Potential-based Reward Shaping
 
 ## Running experiments
 
