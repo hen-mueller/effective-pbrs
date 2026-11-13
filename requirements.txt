@@ -1,0 +1,14 @@
+addict
+gymnasium==1.2.1
+matplotlib
+mujoco==2.3.7
+numpy==1.26.4
+packaging==25.0
+pandas==2.3.0
+pip
+pygame==2.6.1
+python
+conda-forge::stable-baselines3
+tensorboard
+pytorch::pytorch
+conda-forge::gymnasium-robotics==1.4.1 
